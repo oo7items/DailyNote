@@ -12,7 +12,7 @@ https://github.com/oo7items/DailyNote/blob/main/：相对链接，仓库起始�
   <ul type='none'>
   <li>
     <details>
-      <a href="###"><summary>Strapi</summary></a>
+      <summary><a href="./strapi/2023-5-10/study.md"><img align='center' width='70' src="./assets/images/strapi-logo-dark.png"></a></summary>
       <ul>
         <li>
           环境搭建
