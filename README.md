@@ -1,2 +1,8 @@
 # 每日笔记
-## [2023-5-10](https://github.com/oo7items/DailyNote/2023-5-10/strapi.md)
+## 2023-5-10
+## :pencil2: 算法
+- strapi
+- 1
+- 2
+* John Adams
++ Thomas Jefferson
