@@ -27,7 +27,7 @@ https://github.com/oo7items/DailyNote/blob/main/：相对链接，仓库起始�
     <details>
       <summary>
       <a target="_blank" href="https://github.com/oo7items/DailyNote/blob/main/Strapi/2023-5-11/study.md">
-        <img align='center' src="./assets/images/strapi-h23.png">Strapi学习
+        <img align='center' src="./assets/images/strapi-h23.png"> Strapi学习
       </a>
       </summary>
       <ul>
