@@ -12,9 +12,9 @@ https://github.com/oo7items/DailyNote/blob/main/：相对链接，仓库起始�
   <ul type='none'>
   <li>
     <details>
-      <summary>
+      <summary style="line-height:20px;vertical-align:middle;">
       <a href="https://github.com/oo7items/DailyNote/blob/main/English/周育如K.K音標/2023-5-11/study.md">
-        <img align='center' src='./assets/images/周育如-h23.png'> &nbsp;周育如k.k音标</img> 
+        <img align='center' src='./assets/images/周育如-h23.png'> 周育如k.k音标
       </a>
       </summary>
       <ul>
