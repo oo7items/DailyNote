@@ -26,8 +26,8 @@ https://github.com/oo7items/DailyNote/blob/main/：相对链接，仓库起始�
     <li>
     <details>
       <summary>
-      <a href="https://github.com/oo7items/DailyNote/blob/main/Strapi/2023-5-11/study.md">
-        <img align='top' src="./assets/images/strapi-h23.png"> Strapi学习
+      <a href="https://github.com/oo7items/DailyNote/blob/main/Strapi/NijiaStrapi - Crash Course (with React & GraphQL)/2023-5-11/study.md">
+        <img align='top' src="./assets/images/strapi-h23.png"> Nijia
       </a>
       </summary>
       <ul>
