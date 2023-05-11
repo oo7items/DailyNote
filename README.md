@@ -14,7 +14,7 @@ https://github.com/oo7items/DailyNote/blob/main/：相对链接，仓库起始�
     <details>
       <summary>
       <a target="_blank" href="https://github.com/oo7items/DailyNote/blob/main/English/周育如K.K音標/2023-5-11/study.md">
-        <img align='center' src='./assets/images/周育如-h25.png'> 周育如k.k音标 
+        <img align='center' src='./assets/images/周育如-h23.png'> 周育如k.k音标 
       </a>
       </summary>
       <ul>
@@ -27,7 +27,7 @@ https://github.com/oo7items/DailyNote/blob/main/：相对链接，仓库起始�
     <details>
       <summary>
       <a target="_blank" href="https://github.com/oo7items/DailyNote/blob/main/Strapi/2023-5-11/study.md">
-        <img align='center' src="./assets/images/strapi-logo-dark-h25.png">Strapi学习
+        <img align='center' src="./assets/images/strapi-h23.png">Strapi学习
       </a>
       </summary>
       <ul>
