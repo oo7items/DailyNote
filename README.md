@@ -14,7 +14,7 @@ https://github.com/oo7items/DailyNote/blob/main/：相对链接，仓库起始�
     <details>
       <summary>
       <a href="https://github.com/oo7items/DailyNote/blob/main/English/周育如K.K音標/2023-5-11/study.md">
-        <img align='center' src='./assets/images/周育如-h23.png'><span style='vertical-align:middle;'> 周育如k.k音标</span>
+        <img align='center' src='./assets/images/周育如-h23.png'><span style='display:inline-block;vertical-align:middle;'> 周育如k.k音标</span>
       </a>
       </summary>
       <ul>
