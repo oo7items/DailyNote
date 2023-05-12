@@ -5,8 +5,9 @@
 
 ## 笔记目录
 ### [2023-5-11](https://github.com/oo7items/DailyNote/blob/main/English/周育如K.K音標/2023-5-11/学习.md)
-* xxx
-* xxx
+* 中文和英文对比，如何学习音标
+* 透过字母学习音标
+* a [æ] 和 e [ɛ] 对比
 ### [2023-5-11](https://github.com/oo7items/DailyNote/blob/main/English/周育如K.K音標/2023-5-11/学习.md)
 * xxx
 * xxx

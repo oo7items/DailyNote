@@ -8,11 +8,18 @@
 <!-- <img align='center' width='70' src="./assets/images/strapi-logo-dark.png"> -->
 # 每日笔记
 ## 2023-5-11
-[![./assets/images/周育如-h23.png]](https://github.com/oo7items/DailyNote/blob/main/English/周育如K.K音標/周育如K.K音标 - 目录.md)
-<li><a href="https://github.com/oo7items/DailyNote/blob/main/English/周育如K.K音標/2023-5-11/study.md"> <img align='top' src='./assets/images/周育如-h23.png'> 周育如k.k音标 </a></li>
+<ul>
+<li>
+<a href="https://github.com/oo7items/DailyNote/blob/main/English/周育如K.K音標/2023-5-11/study.md"> <img align='top' src='./assets/images/周育如-h23.png'> 周育如k.k音标 </a>
+</li>
+<li>
+<a href="https://github.com/oo7items/DailyNote/blob/main/Strapi/NijiaStrapi - Crash Course (with React & GraphQL)/2023-5-11/study.md"> <img align='top' src="./assets/images/strapi-h23.png"> Nijia </a>
+</li>
+</ul>
 
-<li><a href="https://github.com/oo7items/DailyNote/blob/main/Strapi/NijiaStrapi - Crash Course (with React & GraphQL)/2023-5-11/study.md"> <img align='top' src="./assets/images/strapi-h23.png"> Nijia </a></li>
-# 每日笔记
+
+
+<!-- # 每日笔记
 <details>
   <summary>2023-5-11</summary>
   <ul type='none'>
@@ -56,5 +63,5 @@
     </details>
   </li>
   </ul>
-</details>
+</details> -->
 
