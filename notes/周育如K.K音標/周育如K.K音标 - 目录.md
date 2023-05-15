@@ -11,6 +11,8 @@
 ### [2023-5-11](https://github.com/oo7items/DailyNote/blob/main/notes/周育如K.K音標/2023-5-12/笔记.md)
 * 音标技巧学习 (完成7个音标学习，总进度百分34%，预计2023-5-17号完成)
 * 音标发音对比 (c [k] 和 d [d] 对比)
-### [2023-5-11](https://github.com/oo7items/DailyNote/blob/main/notes/周育如K.K音標/2023-5-14/笔记.md)
-* 音标技巧学习 (完成7个音标学习，总进度百分34%，预计2023-5-17号完成)
-* 音标发音对比 (c [k] 和 d [d] 对比)
+### [2023-5-12](https://github.com/oo7items/DailyNote/blob/main/notes/周育如K.K音標/2023-5-14/笔记.md)
+* 温习前面学习的知识
+
+### [2023-5-15](https://github.com/oo7items/DailyNote/blob/main/notes/周育如K.K音標/2023-5-14/笔记.md)
+* 温习前面学习的知识
