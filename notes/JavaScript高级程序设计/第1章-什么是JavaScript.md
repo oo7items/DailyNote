@@ -8,9 +8,20 @@
 3. 浏览器对象模型 （BOM）
 
 ## 核心（ECMAScript）
-1. ECMAScript，即**ECMA-262**定义的语言，并不局限于Web浏览器，Web浏览器只是ECMAScript实现可能存在的一种**宿主环境**（host environment）
-2. 宿主环境提供ECMAScript的**基准实现**和**环境自身交互必须的扩展**，扩展（比如DOM）使用ECMAScript**核心类型和语法（赋值变量，使用Array等方法执行操作）**，提供特定于环境的额外功能。其宿主环境还有JavaScript平台Node.js  
-**基准实现**：基准实现可以作为参考，供其他开发人员实现和遵循
+1. ECMAScript，即**ECMA-262**定义的语言，并不局限于Web浏览器，Web浏览器只是ECMAScript实现可能存在的一种**宿主环境**（host environment环境）
+2. 宿主环境提供ECMAScript(JavaScript的规范标准)的**基准实现**和**环境自身交互必须的扩展**，扩展（比如DOM）使用ECMAScript**核心类型和语法**，提供特定于环境的额外功能。其宿主环境还有JavaScript平台Node.js  
+
+3. 宿主环境为ECMAScript提供了运行时的环境，基准包括了ECMAScript语言的**核心功能和特性**
+4. 宿主环境还为ECMAScript提供了一些必要的扩展，这些扩展使得ECMAScript能够与宿主环境进行交互。这些扩展可以是特定于宿主环境的API、对象、函数或者其他功能，它们不属于ECMAScript标准规范，但是**为了更好的与宿主环境集成，宿主环境提供这些扩展**。
+5. 总结：宿主环境为ECMAScript提供了基本的实现，并且还提供了一些额外的功能和扩展，使ECMAScript能够与宿主环境进行交互。
+
+### 主要宿主环境扩展包括什么?
+1. DOM(文档对象模型)扩展：宿主环境通常提供了与HTML文档交互的能力，例如通过
+2. BOM
+3. 文件系统扩展
+4. 定时器扩展
+5. 客户端存储扩展
+6. Web API扩展
 
 3. 如果不涉及浏览器，ECMA-262到底定义了什么?
 * 语法
@@ -36,8 +47,6 @@ JavaScript语法是指用于编写JavaScript代码的**一组规则和结构**�
 7. 控制流程（Control Flow）: JavaScript提供了多种控制流程语句，如**条件语句**（if-else switch）、**循环语句**（for、while）、**跳转语句**（break、continue）等，用于控制代码的执行顺序。
 8. 注释（Comments）: 注释是用于解释代码的文本。在JavaScript中，单行注释以双斜杠（//）开头，多行注释以/*开头，以*/结尾。
 
-sd sdsd
-sdsdsd
 
 ## ECMAScript版本
 1. 第一版，删除所有浏览器特定的代码，外加少量细微的修改，支持Unicode标准(支持多语言)，**对象不得依赖平台**，这是修改的关键内容
@@ -135,3 +144,12 @@ JavaScript的这三个部分得到了五大Web浏览器（IE、Firefox、Chrome�
 ECMA-SCRIPT 262 基准来定义
 Web 浏览器 是ECMASCRIPT实现可能存在的一种宿主环境
 ECMAScript的基准实现和与环境自身交互必须的扩展
+
+ecma 262定义的语言，不局限于浏览器，浏览器只是ecma实现可能存在的一种环境】
+
+宿主环境ecma提供script基准实现和环境自身交互必须的扩展，扩展比如dom使用ecmascript核心类型和语法
+
+
+宿主环境环境为ECMA提供了一个基准实现，也就是ECMA的运行时环境，这个基准实现了包括ECMA语言的核心功能和特性
+
+宿主环境还可以为ECMA提供一些必要的扩展，
