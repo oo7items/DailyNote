@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://unpkg.com/wangeditor@4.7.10/dist/css/wangEditor.min.css">
+</head>
+<body>
+    <div id="div1">
+        <p>欢迎使用 <b>wangEditor</b> 富文本编辑器</p>
+    </div>
+    <!-- 引入 wangEditor.min.js -->
+    <script src="https://unpkg.com/wangeditor@4.7.10/dist/js/wangEditor.min.js"></script>
+    <script type="text/javascript">
+   // 创建编辑器实例
+var editor = new wangEditor('#editor');
+
+// 配置编辑器选项
+editor.config = {
+  // 配置项...
+};
+
+// 初始化编辑器
+editor.init();
+
+    </script>
+</body>
+</html>
