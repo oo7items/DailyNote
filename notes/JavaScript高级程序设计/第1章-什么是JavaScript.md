@@ -141,7 +141,7 @@ JavaScript的这三个部分得到了五大Web浏览器（IE、Firefox、Chrome�
 
 
 
-
+### 如何理解宿主环境ECMAScript的基准实现和环境交互必须的扩展?
 ECMA-SCRIPT 262 基准来定义
 Web 浏览器 是ECMASCRIPT实现可能存在的一种宿主环境
 ECMAScript的基准实现和与环境自身交互必须的扩展
@@ -154,3 +154,16 @@ ecma 262定义的语言，不局限于浏览器，浏览器只是ecma实现可�
 宿主环境环境为ECMA提供了一个基准实现，也就是ECMA的运行时环境，这个基准实现了包括ECMA语言的核心功能和特性
 
 宿主环境还可以为ECMA提供一些必要的扩展，
+
+
+### JavaScript语法是什么?
+1. 语句，变量声明、赋值、条件语句、循环语句、函数定义和调用、数组、对象、字符串、DOM操作、事件处理、异步处理、类和对象编程、模块化 (得到某个执行结果的代码，便是语句)
+
+1. 语句（statements）变量声明、赋值、条件语句、循环语句等
+2. 变量（Variables）使用关键字var、let或const声明变量，变量存储数据，并在程序中赋予不同的值
+3. 数据类型（Data Types）基本数据类型：Undefined 2.Null 3.Boolean 4.Number 5.String 6.Symbol，引用类型：1.Object 2.Array 3.Function
+4. 表达式（Expressions）由值、运算符、函数组成的代码片段，计算并生成一个值
+5. 函数（Function）重复使用的代码块，通过函数名和可选的参数列表来定义
+6. 对象（Object）对象是复杂的数据结构，由一组属性和方法组成，属性是健值，用于存储数据，方法是与对象关联的函数
+7. 控制流程（Control Flow）条件语句(if-else switch)、循环语句(for、while)、跳转语句(break、continue)等，用于控制代码的执行顺序
+8. 注释（Comments）：注释是用于解释代码的文本
